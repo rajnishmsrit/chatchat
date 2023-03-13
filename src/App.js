@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h3>Hello World</h3>
+        <h3>Starting Project for CI/CD test with Vercel</h3>
       </header>
     </div>
   );
