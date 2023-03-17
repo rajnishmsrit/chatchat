@@ -1,0 +1,15 @@
+.divider.light {
+  background: gray;
+}
+
+.divider.dark {
+  background: black;
+}
+
+.divider.thin {
+  height: 2px;
+}
+
+.divider.thick {
+  height: 4px;
+}

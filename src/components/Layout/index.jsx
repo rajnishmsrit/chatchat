@@ -1,12 +1,12 @@
 import Header from "../Header";
 import './index.css'
-import Button from '../Button';
+// import InputBar from '../InputBar';
 function Layout() {
   return (
     <div className="App">
       <Header/>
-      <main>
-        <Button></Button>
+      {/* <main>
+        <InputBar></InputBar> */}
       </main>
     </div>
   )
